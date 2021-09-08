@@ -1,0 +1,1146 @@
+{
+    "Comercio": {
+        "bannerComercio": "https://firebasestorage.googleapis.com/v0/b/pide-cloud.appspot.com/o/banner_comercios%2FPidePCREPortada2021.jpg?alt=media&token=763ac456-67e4-476d-9d2f-ddcc99a26764",
+        "direccionComercio": "Av. San Martín & General Paz, Junín, Provincia de Buenos Aires",
+        "eg": false,
+        "email": "tienda@pessa.com.ar",
+        "idCategoria": [
+            7,
+            14,
+            87,
+            9
+        ],
+        "idComercio": 74000,
+        "imagenComercio": "https://firebasestorage.googleapis.com/v0/b/pide-cloud.appspot.com/o/banner_comercios%2FPidePCREAvatar2021.jpg?alt=media&token=df9d9f26-395e-4977-8090-961aa656760c",
+        "nombreComercio": "Tienda Re",
+        "pe": true,
+        "porcentaje": 0.075,
+        "pt": false,
+        "status": true,
+        "telefonoComercio": "236-4411180",
+        "tp": "35-45",
+        "ubicGPSComercio": "-34.5873315299469, -60.94715555930106"
+    },
+    "Productos": {
+        "-Mbq0TFETiqTboLYKmvD": {
+            "descriProducto": "Pan artesanal, hamburguesa, lechuga y tomate.",
+            "idCategoria": 9,
+            "idComercio": 74000,
+            "idProducto": 505499,
+            "imagenProducto": "https://firebasestorage.googleapis.com/v0/b/pide-cloud.appspot.com/o/productos%2Fhamburguesa%20completa%20(2).png?alt=media&token=b0a0b76f-8db6-471d-ac08-57748c656ee9",
+            "nombreProducto": "Hamburguesa clásica",
+            "oferta": false,
+            "precioOferta": 270,
+            "precioProducto": 270,
+            "ranking": 5,
+            "status": true
+        },
+        "-Mbq5owpRRunoTa7_tul": {
+            "descriProducto": "Pan artesanal, hamburguesa, jamón, queso, lechuga y tomate.",
+            "idCategoria": 9,
+            "idComercio": 74000,
+            "idProducto": 505500,
+            "imagenProducto": "https://firebasestorage.googleapis.com/v0/b/pide-cloud.appspot.com/o/productos%2Fhamburguesa%20completa%20(2).png?alt=media&token=d6c1af11-8261-4094-b56e-66ff12f1b9ff",
+            "nombreProducto": "Hamburguesa completa",
+            "oferta": false,
+            "precioOferta": 350,
+            "precioProducto": 350,
+            "ranking": 5,
+            "status": true
+        },
+        "-Mbq62k45tow3FNC5XKT": {
+            "descriProducto": "Pan artesanal, hamburguesa, huevo.",
+            "idCategoria": 9,
+            "idComercio": 74000,
+            "idProducto": 505501,
+            "imagenProducto": "https://firebasestorage.googleapis.com/v0/b/pide-cloud.appspot.com/o/productos%2FPide%20-ProductosImagenProvisional.jpg?alt=media&token=b3927b9f-1bf5-4e0f-82fb-8ab3dc4aafaf",
+            "nombreProducto": "Hamburguesa Junior",
+            "oferta": false,
+            "precioOferta": 180,
+            "precioProducto": 190,
+            "ranking": 5,
+            "status": true
+        },
+        "-Mbq6_phQ8KSE7zOPSLe": {
+            "descriProducto": "Pan artesanal, lomo, jamón, queso, lechuga, tomate y huevo.",
+            "idCategoria": 9,
+            "idComercio": 74000,
+            "idProducto": 505503,
+            "imagenProducto": "https://firebasestorage.googleapis.com/v0/b/pide-cloud.appspot.com/o/productos%2Flomo%20completo.png?alt=media&token=ad129bc1-e2b7-46b6-9b9c-1d3e4c0bccfb",
+            "nombreProducto": "Lomo completo",
+            "precioProducto": 400,
+            "ranking": 5,
+            "status": true
+        },
+        "-Mbq6joKaHK5kuV8qlxe": {
+            "descriProducto": "Pan artesanal, bondiola, lechuga y tomate.",
+            "idCategoria": 9,
+            "idComercio": 74000,
+            "idProducto": 505504,
+            "imagenProducto": "https://firebasestorage.googleapis.com/v0/b/pide-cloud.appspot.com/o/productos%2FPide%20-ProductosImagenProvisional.jpg?alt=media&token=b3927b9f-1bf5-4e0f-82fb-8ab3dc4aafaf",
+            "nombreProducto": "Sandwich de Bondiola",
+            "oferta": false,
+            "precioOferta": 270,
+            "precioProducto": 270,
+            "ranking": 5,
+            "status": true
+        },
+        "-Mbq7ESV2D0GR7nsiVig": {
+            "descriProducto": "Pan artesanal, pollo, jamón y queso.",
+            "idCategoria": 9,
+            "idComercio": 74000,
+            "idProducto": 505505,
+            "imagenProducto": "https://firebasestorage.googleapis.com/v0/b/pide-cloud.appspot.com/o/productos%2FSandwich%20de%20pollo.JPG?alt=media&token=565e2821-dcac-4f5b-92e0-bd473ce1344c",
+            "nombreProducto": "Sandwich de pollo",
+            "precioProducto": 250,
+            "ranking": 5,
+            "status": true
+        },
+        "-Mbq7VdNfXsbSCF12fx8": {
+            "descriProducto": "Pizza individual al horno de barro con mozarela, morrones asados y huevo.",
+            "idCategoria": 7,
+            "idComercio": 74000,
+            "idProducto": 505506,
+            "imagenProducto": "https://firebasestorage.googleapis.com/v0/b/pide-cloud.appspot.com/o/productos%2FPizza%20catalana.jpg?alt=media&token=f0e1c3ed-2dda-43df-8700-4034dc5b1f10",
+            "nombreProducto": "Pizza Catalana",
+            "precioProducto": 250,
+            "ranking": 5,
+            "status": true
+        },
+        "-Mbq7kcKqrGMd62rU4vs": {
+            "descriProducto": "Pizza individual al horno de barro con mozarela y queso roquefort.",
+            "idCategoria": 7,
+            "idComercio": 74000,
+            "idProducto": 505507,
+            "imagenProducto": "https://firebasestorage.googleapis.com/v0/b/pide-cloud.appspot.com/o/productos%2FIMG-20210601-WA0116.jpg?alt=media&token=ac4d1908-7468-40b5-bd34-b8fce1f0b5db",
+            "nombreProducto": "Pizza de roquefort",
+            "precioProducto": 250,
+            "ranking": 5,
+            "status": true
+        },
+        "-Mbq84-KqIIssUOH9ivt": {
+            "descriProducto": "Pizza individual al horno de barro con mozarela.",
+            "idCategoria": 7,
+            "idComercio": 74000,
+            "idProducto": 505508,
+            "imagenProducto": "https://firebasestorage.googleapis.com/v0/b/pide-cloud.appspot.com/o/productos%2FPIZZA%20MOZARELLA.png?alt=media&token=d2ab246f-47e3-4e98-b4eb-3b8e4959b6a2",
+            "nombreProducto": "Pizza de mozarella",
+            "precioProducto": 200,
+            "ranking": 5,
+            "status": true
+        },
+        "-Mbq8MtquG_7_TdoScmJ": {
+            "descriProducto": "Pizza individual al horno de barro con mozarela y cebolla caramelizada.",
+            "idCategoria": 7,
+            "idComercio": 74000,
+            "idProducto": 505509,
+            "imagenProducto": "https://firebasestorage.googleapis.com/v0/b/pide-cloud.appspot.com/o/productos%2FPizza%20RE.JPG?alt=media&token=6b1bc883-71bb-4301-baf3-9104e91ac1dd",
+            "nombreProducto": "Pizza RE",
+            "precioProducto": 220,
+            "ranking": 5,
+            "status": true
+        },
+        "-Mbq8YShoadPoZZJ-2sR": {
+            "descriProducto": "Pizza individual al horno de barro con mozarela, jamón y morrones asados.",
+            "idCategoria": 7,
+            "idComercio": 74000,
+            "idProducto": 505510,
+            "imagenProducto": "https://firebasestorage.googleapis.com/v0/b/pide-cloud.appspot.com/o/productos%2FPizza%20especial.JPG?alt=media&token=4e1042c6-1152-439f-a9bc-5613157d8e97",
+            "nombreProducto": "Pizza especial",
+            "oferta": false,
+            "precioOferta": 250,
+            "precioProducto": 250,
+            "ranking": 5,
+            "status": true
+        },
+        "-Mbq8lo_wRi4rHmMCEVQ": {
+            "descriProducto": "Pizza individual al horno de barro con mozarela, rodajas de tomate y albahaca.",
+            "idCategoria": 7,
+            "idComercio": 74000,
+            "idProducto": 505511,
+            "imagenProducto": "https://firebasestorage.googleapis.com/v0/b/pide-cloud.appspot.com/o/productos%2FPIZZA%20NAPOLITANA.jpg?alt=media&token=0df3fe38-5133-499d-9dc0-6acfbf72fa2e",
+            "nombreProducto": "Pizza napolitana",
+            "precioProducto": 250,
+            "ranking": 5,
+            "status": true
+        },
+        "-Mbq92K1WiwxC_3iWk4t": {
+            "descriProducto": "Porción de patitas de pollo con aderezos.",
+            "idCategoria": 83,
+            "idComercio": 74000,
+            "idProducto": 505512,
+            "imagenProducto": "https://firebasestorage.googleapis.com/v0/b/pide-cloud.appspot.com/o/productos%2FPATITAS%20DE%20POLLO.png?alt=media&token=74928c3a-95a8-4566-953a-8df979fed603",
+            "nombreProducto": "Patitas de pollo",
+            "precioProducto": 190,
+            "ranking": 5,
+            "status": true
+        },
+        "-Mbq9CzLV_OWtBxi9MBf": {
+            "descriProducto": "Porción de aros de cebolla con aderezos.",
+            "idCategoria": 83,
+            "idComercio": 74000,
+            "idProducto": 505513,
+            "imagenProducto": "https://firebasestorage.googleapis.com/v0/b/pide-cloud.appspot.com/o/productos%2FPide%20-ProductosImagenProvisional.jpg?alt=media&token=b3927b9f-1bf5-4e0f-82fb-8ab3dc4aafaf",
+            "nombreProducto": "Aros de Cebolla",
+            "precioProducto": 150,
+            "ranking": 5,
+            "status": true
+        },
+        "-Mbq9Vi97P7MviSe6kbl": {
+            "descriProducto": "Hamburguesa clásica + Papas + bebida x 500cc.",
+            "idCategoria": 102,
+            "idComercio": 74000,
+            "idProducto": 505514,
+            "imagenProducto": "https://firebasestorage.googleapis.com/v0/b/pide-cloud.appspot.com/o/productos%2FCOMBO%20CLASICA.jpg?alt=media&token=0ff9f8b9-31bd-44d5-a457-8ce0d528515f",
+            "nombreProducto": "Combo clásica",
+            "oferta": false,
+            "precioOferta": 520,
+            "precioProducto": 440,
+            "ranking": 5,
+            "status": true
+        },
+        "-Mbq9ddFRzDoaaQ7ur0R": {
+            "descriProducto": "Hamburguesa completa + papas + bebida x 500cc.",
+            "idCategoria": 102,
+            "idComercio": 74000,
+            "idProducto": 505515,
+            "imagenProducto": "https://firebasestorage.googleapis.com/v0/b/pide-cloud.appspot.com/o/productos%2FCOMBO%20HAMBURGUESA%20COMPLETA.jpg?alt=media&token=3fd458fe-d7d5-414a-9641-881b5fc0f5c1",
+            "nombreProducto": "Combo completa",
+            "precioProducto": 520,
+            "ranking": 5,
+            "status": true
+        },
+        "-Mbq9qP5vhQDezaUYYb8": {
+            "descriProducto": "Lomo completo + papas + bebida x 500cc.",
+            "idCategoria": 102,
+            "idComercio": 74000,
+            "idProducto": 505514,
+            "imagenProducto": "https://firebasestorage.googleapis.com/v0/b/pide-cloud.appspot.com/o/productos%2FCOMBO%20LOMO.jpg?alt=media&token=0894248f-83af-4045-8853-e828e2801b29",
+            "nombreProducto": "Combo Lomo",
+            "precioProducto": 630,
+            "ranking": 5,
+            "status": true
+        },
+        "-Mbq9zyXwyC_tVXjSX_3": {
+            "descriProducto": "Hamburguesa Junior + papas + bebida x 500cc.",
+            "idCategoria": 102,
+            "idComercio": 74000,
+            "idProducto": 505515,
+            "imagenProducto": "https://firebasestorage.googleapis.com/v0/b/pide-cloud.appspot.com/o/productos%2FCOMBO%20JUNIIOR.jpg?alt=media&token=035119d7-e9fb-4297-8dc4-6d566dc33a60",
+            "nombreProducto": "Combo Junior",
+            "precioProducto": 390,
+            "ranking": 5,
+            "status": true
+        },
+        "-MbqA7iyFWxzjEvOKIie": {
+            "descriProducto": "Sándwich de bondiola + papas + bebida x 500cc.",
+            "idCategoria": 102,
+            "idComercio": 74000,
+            "idProducto": 505516,
+            "imagenProducto": "https://firebasestorage.googleapis.com/v0/b/pide-cloud.appspot.com/o/productos%2FCOMBO%20BONDIOLA.jpg?alt=media&token=64477d08-2733-432d-ac79-b4f681922c85",
+            "nombreProducto": "Combo Bondiola",
+            "precioProducto": 420,
+            "ranking": 5,
+            "status": true
+        },
+        "-MbqAKLaTzVrkarIAScc": {
+            "descriProducto": "Sándwich de Pollo + papas +  bebida x 500cc.",
+            "idCategoria": 102,
+            "idComercio": 74000,
+            "idProducto": 505517,
+            "imagenProducto": "https://firebasestorage.googleapis.com/v0/b/pide-cloud.appspot.com/o/productos%2FCOMBO%20POLLO.jpg?alt=media&token=49c06beb-fd08-4a1b-bf0d-b1cc7f4cfda6",
+            "nombreProducto": "Combo Pollo",
+            "precioProducto": 420,
+            "ranking": 5,
+            "status": true
+        },
+        "-MbqPs3tAvlDDjP2Gm4X": {
+            "descriProducto": "Porción.",
+            "idCategoria": 83,
+            "idComercio": 74000,
+            "idProducto": 505518,
+            "imagenProducto": "https://firebasestorage.googleapis.com/v0/b/pide-cloud.appspot.com/o/productos%2FPide%20-ProductosImagenProvisional.jpg?alt=media&token=b3927b9f-1bf5-4e0f-82fb-8ab3dc4aafaf",
+            "nombreProducto": "Papas fritas",
+            "oferta": false,
+            "precioOferta": 170,
+            "precioProducto": 170,
+            "ranking": 5,
+            "status": true
+        }
+    },
+    "Categorias": {
+        "-LdQ5fyAY-6tU8xKjjF6": {
+            "catPadre": 0,
+            "idCategoria": 1,
+            "imagenCat": "ic_pide_comida",
+            "nombreCat": "Comida"
+        },
+        "-LdQ5fyhfUp1LfG7AY8z": {
+            "catPadre": 0,
+            "catend": false,
+            "catint": false,
+            "idCategoria": 2,
+            "imagenCat": "ic_pide_mercado",
+            "nombreCat": "Tiendas",
+            "order": 7
+        },
+        "-LdQ5fyiQJlleI4WTEPu": {
+            "catPadre": 0,
+            "catend": true,
+            "idCategoria": 3,
+            "imagenCat": "ic_pide_heladeria",
+            "nombreCat": "Heladeria",
+            "order": 6
+        },
+        "-LdQ5fykALWb0yG1xhlw": {
+            "catPadre": 0,
+            "idCategoria": 4,
+            "imagenCat": "ic_pide_farmacia",
+            "nombreCat": "Farmacia",
+            "order": 4
+        },
+        "-LdQ5fylR_I9yVIUdkZZ": {
+            "catPadre": 0,
+            "catend": true,
+            "catint": false,
+            "idCategoria": 5,
+            "imagenCat": "ic_pide_panaderia",
+            "nombreCat": "Panaderia",
+            "order": 5
+        },
+        "-LdQ5fymF7sWdEc9QCjF": {
+            "catPadre": 0,
+            "idCategoria": 6,
+            "imagenCat": "ic_pide_bebida",
+            "nombreCat": "Bebidas",
+            "order": 1
+        },
+        "-LdQ5fynZbI66hCpJW0T": {
+            "catPadre": 1,
+            "idCategoria": 7,
+            "imagenCat": "ic_pide_pizzas",
+            "nombreCat": "Pizzas",
+            "order": 0
+        },
+        "-LdQ5fypB0qkz3WSf1GU": {
+            "catPadre": 1,
+            "idCategoria": 8,
+            "imagenCat": "ic_pide_parrillas",
+            "nombreCat": "Parrillas",
+            "order": 0
+        },
+        "-LdQ5fyr8j9ebgtWnisT": {
+            "catPadre": 1,
+            "idCategoria": 9,
+            "imagenCat": "ic_pide_sandwish",
+            "nombreCat": "Sandwich"
+        },
+        "-LdQ5fytBRdjJTa3ypa6": {
+            "catPadre": 1,
+            "idCategoria": 10,
+            "imagenCat": "ic_pide_pastas",
+            "nombreCat": "Pastas"
+        },
+        "-LdQ5fyvvdfXd9ytLYAH": {
+            "catPadre": 1,
+            "idCategoria": 11,
+            "imagenCat": "ic_pide_gourmets",
+            "nombreCat": "Gourmet"
+        },
+        "-LlDcJfxRsNZJCLUoOdy": {
+            "catPadre": 1,
+            "idCategoria": 12,
+            "imagenCat": "ic_pide_internacional",
+            "nombreCat": "Comida Internacional"
+        },
+        "-LlDcbYk5kA8uos-0UVo": {
+            "catPadre": 1,
+            "idCategoria": 13,
+            "imagenCat": "ic_pide_delicias_dulces",
+            "nombreCat": "Delicias dulces"
+        },
+        "-LlDvthrjUT931r92eMi": {
+            "catPadre": 1,
+            "idCategoria": 14,
+            "imagenCat": "ic_pide_delicias_saladas",
+            "nombreCat": "Delicias saladas"
+        },
+        "-Ll_XKDiXtER922Ck_Au": {
+            "catPadre": 6,
+            "idCategoria": 15,
+            "imagenCat": "ic_pide_cerveza",
+            "nombreCat": "Cerveza",
+            "order": 0
+        },
+        "-LlnDs7n7hsQD7CXBr83": {
+            "catPadre": 6,
+            "idCategoria": 16,
+            "imagenCat": "ic_pide_cafes",
+            "nombreCat": "Cafe de Especialidad"
+        },
+        "-LlvwBDWxShtsq3pHzDm": {
+            "catPadre": 36,
+            "idCategoria": 17,
+            "imagenCat": "ic_pide_batidos",
+            "nombreCat": "Batidos"
+        },
+        "-Llw-7xB72KG3qJy_t03": {
+            "catPadre": 9,
+            "idCategoria": 18,
+            "imagenCat": "",
+            "nombreCat": "Sandwich Especiales"
+        },
+        "-Llw-EGv_upQzvaHjcH6": {
+            "catPadre": 9,
+            "idCategoria": 19,
+            "imagenCat": "",
+            "nombreCat": "Sandwich Clasicos"
+        },
+        "-Lm6kd4BjFfHyKTQ__Rf": {
+            "catPadre": 15,
+            "idCategoria": 20,
+            "imagenCat": "",
+            "nombreCat": "Lata"
+        },
+        "-Lm6kiRJF8L9jyYSiRWY": {
+            "catPadre": 15,
+            "idCategoria": 21,
+            "imagenCat": "",
+            "nombreCat": "Botella 1L"
+        },
+        "-Lm6km-Jw3JKXAMSKmtY": {
+            "catPadre": 15,
+            "idCategoria": 22,
+            "imagenCat": "",
+            "nombreCat": "Botella 2L"
+        },
+        "-LmFbTRCo4KTO_etYyjF": {
+            "catPadre": 14,
+            "idCategoria": 23,
+            "imagenCat": "",
+            "nombreCat": "Acompañantes"
+        },
+        "-Lmoy_aY1RIZkkxdLeyC": {
+            "catPadre": 16,
+            "idCategoria": 24,
+            "imagenCat": "",
+            "nombreCat": "Cafe"
+        },
+        "-Lmoyci0m_6Zyjhzg0OB": {
+            "catPadre": 16,
+            "idCategoria": 25,
+            "imagenCat": "",
+            "nombreCat": "Te"
+        },
+        "-Lmoyj-7FuJtIJ8i7p39": {
+            "catPadre": 16,
+            "idCategoria": 26,
+            "imagenCat": "",
+            "nombreCat": "Chocolatada"
+        },
+        "-LmozMYtjAATnCY-GoHA": {
+            "catPadre": 17,
+            "idCategoria": 27,
+            "imagenCat": "",
+            "nombreCat": "Frappe"
+        },
+        "-LmozQSd_pwXx65eZDAv": {
+            "catPadre": 17,
+            "idCategoria": 28,
+            "imagenCat": "",
+            "nombreCat": "Licuados"
+        },
+        "-LmozZpVs3kXdTPAN6pM": {
+            "catPadre": 36,
+            "idCategoria": 29,
+            "imagenCat": "",
+            "nombreCat": "Jugos"
+        },
+        "-LpEFWKqzbQeUWy3NQ-L": {
+            "catPadre": 12,
+            "idCategoria": 30,
+            "imagenCat": "",
+            "nombreCat": "Tacos"
+        },
+        "-LpEFZs5eoUVRWkuebIK": {
+            "catPadre": 1,
+            "idCategoria": 31,
+            "imagenCat": "ic_pide_picadas",
+            "nombreCat": "Picada"
+        },
+        "-LpH3NfbVPZ26cCrv5wJ": {
+            "catPadre": 1,
+            "idCategoria": 32,
+            "imagenCat": "ic_pide_empanadas",
+            "nombreCat": "Empanadas"
+        },
+        "-LpH3XuUqsCm2qoFRZmz": {
+            "catPadre": 12,
+            "idCategoria": 33,
+            "imagenCat": "",
+            "nombreCat": "Arepas"
+        },
+        "-LpH3lTTzb3lxJSZS9pX": {
+            "catPadre": 14,
+            "idCategoria": 34,
+            "imagenCat": "",
+            "nombreCat": "Tequeños"
+        },
+        "-LpyjKusmLT8OZuaYRji": {
+            "catPadre": 1,
+            "idCategoria": 35,
+            "imagenCat": "ic_pide_vegetarianos",
+            "nombreCat": "Vegetariano"
+        },
+        "-Lq3FUzxsTkMoQvm1fyJ": {
+            "catPadre": 99999,
+            "idCategoria": 36,
+            "imagenCat": "",
+            "nombreCat": "Confiteria"
+        },
+        "-LqwrOGP7-QaJGMzkjo3": {
+            "catPadre": 3,
+            "idCategoria": 37,
+            "imagenCat": "",
+            "nombreCat": "Helados"
+        },
+        "-LrVIchi-Hte5zasIGCs": {
+            "catPadre": 37,
+            "idCategoria": 38,
+            "imagenCat": "",
+            "nombreCat": "Helados Envasados"
+        },
+        "-LrVJuYyVrsp8h4WR3WX": {
+            "catPadre": 37,
+            "idCategoria": 39,
+            "imagenCat": "",
+            "nombreCat": "Helado 1/4Kg"
+        },
+        "-LrVJyqNQ6w9WNN38obh": {
+            "catPadre": 37,
+            "idCategoria": 40,
+            "imagenCat": "",
+            "nombreCat": "Helado 1/2Kg"
+        },
+        "-LrVK17c88XG-SfjYsyg": {
+            "catPadre": 37,
+            "idCategoria": 41,
+            "imagenCat": "",
+            "nombreCat": "Helado 1Kg"
+        },
+        "-LsMomncjzB27dqje2ff": {
+            "catPadre": 7,
+            "idCategoria": 42,
+            "imagenCat": "",
+            "nombreCat": "Pizzanesa"
+        },
+        "-LsMpM9zRfGqWoLuG6Ph": {
+            "catPadre": 14,
+            "idCategoria": 43,
+            "imagenCat": "",
+            "nombreCat": "Wok"
+        },
+        "-LsbYF9dPqOUTaroBde5": {
+            "catPadre": 14,
+            "idCategoria": 44,
+            "imagenCat": "",
+            "nombreCat": "Tartas"
+        },
+        "-LsbdLzO2L9lAz_zIi4z": {
+            "catPadre": 13,
+            "idCategoria": 45,
+            "imagenCat": "",
+            "nombreCat": "Postres"
+        },
+        "-Lsoh9aSqM05J5HIGN7Z": {
+            "catPadre": 36,
+            "idCategoria": 46,
+            "imagenCat": "",
+            "nombreCat": "Smoothies"
+        },
+        "-LsojStxmgmUnx9-Cts8": {
+            "catPadre": 1,
+            "idCategoria": 47,
+            "imagenCat": "ic_pide_desayunos",
+            "nombreCat": "Desayuno"
+        },
+        "-LtBQ4EIWzIX2063SxGi": {
+            "catPadre": 99999,
+            "idCategoria": 48,
+            "imagenCat": "ic_pide_bebida",
+            "nombreCat": "Bebidas"
+        },
+        "-LtBQAGoZzn14LNnL1VP": {
+            "catPadre": 6,
+            "catint": true,
+            "idCategoria": 49,
+            "imagenCat": "ic_pide_alcoholicas",
+            "nombreCat": "Bebidas Alcoholicas",
+            "order": 0
+        },
+        "-Lzroosbm38d69bcz0M4": {
+            "catPadre": 14,
+            "idCategoria": 50,
+            "imagenCat": "",
+            "nombreCat": "Wrap"
+        },
+        "-Lzrp1FVi6a-8FhoWAHy": {
+            "catPadre": 1,
+            "idCategoria": 51,
+            "imagenCat": "ic_pide_ensaladas",
+            "nombreCat": "Ensalada"
+        },
+        "-M-Q_8dkpQ_pedfjl7ov": {
+            "catPadre": 5,
+            "idCategoria": 52,
+            "imagenCat": "ic_pide_panaderia",
+            "nombreCat": "Panaderia"
+        },
+        "-M0D97rQASP67jstMNHk": {
+            "catPadre": 13,
+            "catend": false,
+            "catint": false,
+            "idCategoria": 53,
+            "nombreCat": "Torta Helada",
+            "order": 0
+        },
+        "-M0D9JSPxx1cmPtPJH5l": {
+            "catPadre": 13,
+            "idCategoria": 54,
+            "imagenCat": "",
+            "nombreCat": "Grido Tentacion"
+        },
+        "-M0D9RErYtfe0dPlO5MP": {
+            "catPadre": 14,
+            "idCategoria": 55,
+            "imagenCat": "",
+            "nombreCat": "Congelados"
+        },
+        "-M12fFRMf-zxrQoNUBDi": {
+            "catPadre": 7,
+            "idCategoria": 56,
+            "imagenCat": "",
+            "nombreCat": "Pizza Grande"
+        },
+        "-M12fJ0u7oVcwQoXxE0s": {
+            "catPadre": 7,
+            "idCategoria": 57,
+            "imagenCat": "",
+            "nombreCat": "Pizza Chica"
+        },
+        "-M1IIfd7ScL87F6KVNiQ": {
+            "catPadre": 14,
+            "idCategoria": 58,
+            "imagenCat": "",
+            "nombreCat": "Sandwich de Miga"
+        },
+        "-M1kD-PhALyFJGdAbL9W": {
+            "catPadre": 11,
+            "idCategoria": 59,
+            "imagenCat": "",
+            "nombreCat": "Plato Especial"
+        },
+        "-M2VH_MLQ3Dga5zVt4lm": {
+            "catPadre": 9,
+            "idCategoria": 60,
+            "imagenCat": "",
+            "nombreCat": "Tostados"
+        },
+        "-M2YzeibiUyTLnVFTcqg": {
+            "catPadre": 13,
+            "idCategoria": 61,
+            "imagenCat": "",
+            "nombreCat": "Golosinas"
+        },
+        "-M2i70MicG1eeFJGI0nT": {
+            "catPadre": 11,
+            "idCategoria": 62,
+            "imagenCat": "",
+            "nombreCat": "Al Plato"
+        },
+        "-M2jAjyyMXygxzqpFSDi": {
+            "catPadre": 6,
+            "idCategoria": 63,
+            "imagenCat": "ic_pide_yogurts",
+            "nombreCat": "Yogurt Helado",
+            "order": 0
+        },
+        "-M2jB4QbWurWE9wR8JSD": {
+            "catPadre": 63,
+            "idCategoria": 64,
+            "imagenCat": "",
+            "nombreCat": "Toppins"
+        },
+        "-M2jLpcL24OmBq0lNTgw": {
+            "catPadre": 1,
+            "idCategoria": 65,
+            "imagenCat": "ic_pide_snacks",
+            "nombreCat": "Snack"
+        },
+        "-M2n3YznCLj7oFl-uNm-": {
+            "catPadre": 49,
+            "idCategoria": 66,
+            "imagenCat": "",
+            "nombreCat": "Vinos"
+        },
+        "-M2sxEQ5wWGOqMTntRPb": {
+            "catPadre": 99999,
+            "idCategoria": 67,
+            "imagenCat": "",
+            "nombreCat": "Tapas"
+        },
+        "-M2xfqQrHPpgeZpEFAki": {
+            "catPadre": 10,
+            "idCategoria": 68,
+            "imagenCat": "",
+            "nombreCat": "Pasta Cruda"
+        },
+        "-M2xvxw-exgkEwTYfmx2": {
+            "catPadre": 37,
+            "idCategoria": 69,
+            "imagenCat": "",
+            "nombreCat": "Variedades de Helado"
+        },
+        "-M3c1Oou8gb_g8AhVVKP": {
+            "catPadre": 37,
+            "idCategoria": 70,
+            "imagenCat": "",
+            "nombreCat": "Envase 750grs"
+        },
+        "-M3c1U79bS0QDmTH8D-V": {
+            "catPadre": 37,
+            "idCategoria": 71,
+            "imagenCat": "",
+            "nombreCat": "Envase 1.3kg"
+        },
+        "-M3c1a0Pb-PA16Hi_HOJ": {
+            "catPadre": 37,
+            "idCategoria": 72,
+            "imagenCat": "",
+            "nombreCat": "Envase 2Kg"
+        },
+        "-M40S6g89gMHzIArbcLp": {
+            "catPadre": 18,
+            "idCategoria": 73,
+            "imagenCat": "",
+            "nombreCat": "Hamburguesas"
+        },
+        "-M4FnYNE2mWU2v-gz8UI": {
+            "catPadre": 1,
+            "idCategoria": 74,
+            "imagenCat": "ic_pide_sushi",
+            "nombreCat": "Sushi"
+        },
+        "-M4GO4640P2QeG0SLXPJ": {
+            "catPadre": 14,
+            "idCategoria": 75,
+            "imagenCat": "",
+            "nombreCat": "Adicionales"
+        },
+        "-M4RaIokVP-wzlUQIZjx": {
+            "catPadre": 37,
+            "idCategoria": 76,
+            "imagenCat": "",
+            "nombreCat": "Cucuruchos"
+        },
+        "-M55MgRBworLnwk6POu3": {
+            "catPadre": 37,
+            "idCategoria": 77,
+            "imagenCat": "",
+            "nombreCat": "Copas de postre"
+        },
+        "-M58Qw1x81dvEx-T7wKP": {
+            "catPadre": 36,
+            "idCategoria": 78,
+            "imagenCat": "",
+            "nombreCat": "Milkshakes"
+        },
+        "-M58R7yHu_niPRcaRFam": {
+            "catPadre": 13,
+            "idCategoria": 79,
+            "imagenCat": "",
+            "nombreCat": "Soft bubble "
+        },
+        "-M58RFziI4ufpEDLps7z": {
+            "catPadre": 13,
+            "idCategoria": 80,
+            "imagenCat": "",
+            "nombreCat": "Iced bubble"
+        },
+        "-M58RMBaveYnDCXTODJa": {
+            "catPadre": 13,
+            "idCategoria": 81,
+            "imagenCat": "",
+            "nombreCat": "Wafle collins "
+        },
+        "-M5bu-RMy1vYbkPgpo1v": {
+            "catPadre": 18,
+            "idCategoria": 82,
+            "imagenCat": "",
+            "nombreCat": "Colorburguers"
+        },
+        "-M5buA8d_V3pV3hnW0gJ": {
+            "catPadre": 14,
+            "idCategoria": 83,
+            "imagenCat": "",
+            "nombreCat": "Fritas"
+        },
+        "-M6_jaFYVNUdTQg1JN6E": {
+            "catPadre": 14,
+            "idCategoria": 84,
+            "imagenCat": "",
+            "nombreCat": "Extras"
+        },
+        "-M6vYIOXYvOBUJlzZq4C": {
+            "catPadre": 98,
+            "idCategoria": 85,
+            "imagenCat": "ic_pide_promos",
+            "nombreCat": "Promos",
+            "order": 2
+        },
+        "-M7nBBjt-jA_4yp7wyxM": {
+            "catPadre": 14,
+            "idCategoria": 86,
+            "imagenCat": "",
+            "nombreCat": "Minutas"
+        },
+        "-M8XVO0zS-FzhukiKLuZ": {
+            "catPadre": 6,
+            "idCategoria": 87,
+            "imagenCat": "ic_pide_gaseosas",
+            "nombreCat": "Gaseosas"
+        },
+        "-M8XWgNrBSBT_zkCiScX": {
+            "catPadre": 8,
+            "idCategoria": 88,
+            "imagenCat": "",
+            "nombreCat": "Carnes con crema"
+        },
+        "-MAIdPkJXuIEqnpznSSE": {
+            "catPadre": 12,
+            "idCategoria": 89,
+            "imagenCat": "",
+            "nombreCat": "Aderezos"
+        },
+        "-MBBEdWZP5n2LhNftiSG": {
+            "catPadre": 9,
+            "catend": false,
+            "catint": false,
+            "idCategoria": 90,
+            "nombreCat": "Carlito",
+            "order": 0
+        },
+        "-MC2Q-SlryXmCKXffCwN": {
+            "catPadre": 14,
+            "idCategoria": 91,
+            "imagenCat": "",
+            "nombreCat": "Hot Dog",
+            "order": 0
+        },
+        "-MIqqFsh1xdent0e6mAk": {
+            "catPadre": 98,
+            "idCategoria": 92,
+            "imagenCat": "ic_pide_mandados",
+            "nombreCat": "Mandados",
+            "order": 3
+        },
+        "-MIqtLPwshVYe3tjNIrS": {
+            "catPadre": 92,
+            "idCategoria": 93,
+            "imagenCat": "ic_pide_punto_a_punto",
+            "nombreCat": "Punto a Punto",
+            "order": 0
+        },
+        "-MIqtXO9wlOHIPr1nMkg": {
+            "catPadre": 92,
+            "idCategoria": 94,
+            "imagenCat": "ic_pide_tramites",
+            "nombreCat": "Tramites",
+            "order": 0
+        },
+        "-MIqtbUMYB-F1QwCghVN": {
+            "catPadre": 92,
+            "idCategoria": 95,
+            "imagenCat": "ic_pide_reservados",
+            "nombreCat": "Reservado",
+            "order": 0
+        },
+        "-MIuFJEIrtAqMUf5hAwR": {
+            "catPadre": 9,
+            "idCategoria": 96,
+            "imagenCat": "",
+            "nombreCat": "Pulled Pork",
+            "order": 0
+        },
+        "-MIuGTLSYZw3LhApoRXz": {
+            "catPadre": 9,
+            "idCategoria": 97,
+            "nombreCat": "Smoked",
+            "order": 0
+        },
+        "-MKfv5GPkcaSdXq3XaKG": {
+            "catPadre": 13,
+            "catend": false,
+            "catint": false,
+            "idCategoria": 98,
+            "imagenCat": "",
+            "nombreCat": "Churros"
+        },
+        "-MNi4JAEdKPaiZfitKQ3": {
+            "catPadre": 13,
+            "catend": false,
+            "catint": false,
+            "idCategoria": 99,
+            "imagenCat": "",
+            "nombreCat": "Meriendas"
+        },
+        "-MOnxpPxZ9iDxU6Xs5yv": {
+            "catPadre": 9,
+            "catend": false,
+            "catint": false,
+            "idCategoria": 100,
+            "imagenCat": "",
+            "nombreCat": "Lomo "
+        },
+        "-MOo0Br8APb7issmrfLZ": {
+            "catPadre": 11,
+            "catend": false,
+            "catint": false,
+            "idCategoria": 101,
+            "imagenCat": "",
+            "nombreCat": "Milanesas"
+        },
+        "-MSGI28wRybFpcthrYWe": {
+            "catPadre": 31,
+            "catend": false,
+            "catint": false,
+            "idCategoria": 102,
+            "imagenCat": "",
+            "nombreCat": "Combos"
+        },
+        "-MTHwY9tjFRoaVcuX_ie": {
+            "catPadre": 37,
+            "catend": false,
+            "catint": false,
+            "idCategoria": 103,
+            "imagenCat": "",
+            "nombreCat": "Varios "
+        },
+        "-MTHwdVVHayKy6fBOFUk": {
+            "catPadre": 37,
+            "catend": false,
+            "catint": false,
+            "idCategoria": 104,
+            "nombreCat": "Palitos",
+            "order": 0
+        },
+        "-MV2iWnRdfQoj15BYYLT": {
+            "catPadre": 37,
+            "catend": false,
+            "catint": false,
+            "idCategoria": 105,
+            "imagenCat": "",
+            "nombreCat": "Paletas"
+        },
+        "-MVYQYzlgHXJeK-t6eF-": {
+            "catPadre": 13,
+            "catend": false,
+            "catint": false,
+            "idCategoria": 106,
+            "nombreCat": "Donuts",
+            "order": 0
+        },
+        "-MVcb4hkhMh949lFWhFc": {
+            "catPadre": 13,
+            "catend": false,
+            "catint": false,
+            "idCategoria": 107,
+            "nombreCat": "Rolls",
+            "order": 0
+        },
+        "-MYaq1i-ZkewvIpeMBb6": {
+            "catPadre": 14,
+            "catend": false,
+            "catint": false,
+            "idCategoria": 108,
+            "nombreCat": "Tapeo",
+            "order": 0
+        },
+        "-Mandi5MDNqCt2QYhgEz": {
+            "catPadre": 32,
+            "catend": false,
+            "catint": false,
+            "idCategoria": 109,
+            "nombreCat": "Cena Tranqui",
+            "order": 0
+        },
+        "-ManhgE8kErZX6NlGRQh": {
+            "catPadre": 32,
+            "catend": false,
+            "catint": false,
+            "idCategoria": 110,
+            "nombreCat": "Clandestina",
+            "order": 0
+        },
+        "-Maq2Gapkfmiok8ZvAro": {
+            "catPadre": 32,
+            "catend": false,
+            "catint": false,
+            "idCategoria": 111,
+            "nombreCat": "Solo Como Loco Malo",
+            "order": 0
+        },
+        "-MauDP_5yp9ryeExTaC_": {
+            "catPadre": 14,
+            "catend": false,
+            "catint": false,
+            "idCategoria": 112,
+            "imagenCat": "",
+            "nombreCat": "Cena Supercongelada"
+        },
+        "-MbC90eHeMxNajntgROF": {
+            "catPadre": 15,
+            "catend": false,
+            "catint": false,
+            "idCategoria": 113,
+            "imagenCat": "",
+            "nombreCat": "Pinta (500cc)"
+        },
+        "-MbCJbRkoouksT-tGwa8": {
+            "catPadre": 32,
+            "catend": false,
+            "catint": false,
+            "idCategoria": 114,
+            "imagenCat": "",
+            "nombreCat": "La Solitaria"
+        },
+        "-MbCWg3H-WhVrtMRcPLt": {
+            "catPadre": 49,
+            "catend": false,
+            "catint": false,
+            "idCategoria": 115,
+            "imagenCat": "",
+            "nombreCat": "Vinos y Espumantes"
+        },
+        "-MbCn2mILc4hQ0hf8nsi": {
+            "catPadre": 49,
+            "catend": false,
+            "catint": false,
+            "idCategoria": 116,
+            "imagenCat": "",
+            "nombreCat": "Whiskys por medida"
+        },
+        "-Mbb7AxuT7AAgUPM7vYj": {
+            "catPadre": 7,
+            "catend": false,
+            "catint": false,
+            "idCategoria": 117,
+            "nombreCat": "Media Pizza",
+            "order": 0
+        },
+        "-McK3mNfeNYzR0F6itFG": {
+            "catPadre": 9,
+            "catend": false,
+            "catint": false,
+            "idCategoria": 118,
+            "imagenCat": "",
+            "nombreCat": "1/2 Carlito"
+        },
+        "-McPUhSxwENQCNTU992W": {
+            "catPadre": 9,
+            "catend": false,
+            "catint": false,
+            "idCategoria": 119,
+            "imagenCat": "",
+            "nombreCat": "Mayo y Pimienta"
+        },
+        "-MctReh-h90_UashkrxT": {
+            "catPadre": 13,
+            "catend": false,
+            "catint": false,
+            "idCategoria": 120,
+            "imagenCat": "",
+            "nombreCat": "Alfajor"
+        },
+        "-MctTuyw7jrIsFUDIi3r": {
+            "catPadre": 13,
+            "catend": false,
+            "catint": false,
+            "idCategoria": 121,
+            "nombreCat": "Bombones",
+            "order": 0
+        },
+        "-MctmFhyEDelflzZA4ML": {
+            "catPadre": 13,
+            "catend": false,
+            "catint": false,
+            "idCategoria": 122,
+            "imagenCat": "",
+            "nombreCat": "Chocolates"
+        },
+        "-MczOL-eAcA-iO2--hMM": {
+            "catPadre": 7,
+            "catend": false,
+            "catint": false,
+            "idCategoria": 123,
+            "imagenCat": "",
+            "nombreCat": "CALZONE"
+        },
+        "-MdHkorVwPA_ecAQ6AMb": {
+            "catPadre": 11,
+            "catend": false,
+            "catint": false,
+            "idCategoria": 124,
+            "imagenCat": "",
+            "nombreCat": "Milanesas"
+        },
+        "-Me6nAQwxL0RvyDyo2Co": {
+            "catPadre": 9,
+            "catend": false,
+            "catint": false,
+            "idCategoria": 125,
+            "imagenCat": "",
+            "nombreCat": "Box "
+        },
+        "-Me6nGkg_eEt_r7o3Jmx": {
+            "catPadre": 14,
+            "catend": false,
+            "catint": false,
+            "idCategoria": 126,
+            "imagenCat": "",
+            "nombreCat": "Empanadas Congeladas"
+        },
+        "-MfF4J4B1dBEoX8Z8dbi": {
+            "catPadre": 9,
+            "catend": false,
+            "catint": false,
+            "idCategoria": 127,
+            "imagenCat": "",
+            "nombreCat": "Simples"
+        },
+        "-MfF4MqpaF43_xgAKU6r": {
+            "catPadre": 9,
+            "catend": false,
+            "catint": false,
+            "idCategoria": 128,
+            "imagenCat": "",
+            "nombreCat": "Especiales"
+        },
+        "-MfF9wEG8kKnOCxu4Kqp": {
+            "catPadre": 9,
+            "catend": false,
+            "catint": false,
+            "idCategoria": 129,
+            "imagenCat": "",
+            "nombreCat": "Extras"
+        },
+        "-MfFAz0DPDiPPjxi6Pl-": {
+            "catPadre": 9,
+            "catend": false,
+            "catint": false,
+            "idCategoria": 130,
+            "imagenCat": "",
+            "nombreCat": "Salsas"
+        }
+    }
+}
